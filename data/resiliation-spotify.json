@@ -1,0 +1,41 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "Comment résilier un abonnement Spotify",
+  "description": "Étapes simples pour mettre fin à votre abonnement Spotify Premium ou gratuit.",
+  "url": "https://resiliation-en-ligne.fr/data/resiliation-spotify.json",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "name": "Aller sur le site Spotify",
+      "text": "Rendez-vous sur https://www.spotify.com/fr/account/"
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Se connecter à votre compte",
+      "text": "Utilisez vos identifiants pour accéder à votre espace personnel."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Accéder à la page abonnement",
+      "text": "Dans le menu, cliquez sur 'Compte', puis sur 'Abonnement'."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Cliquer sur 'Annuler l’abonnement'",
+      "text": "Descendez jusqu’à trouver le bouton 'Annuler l’abonnement' et cliquez dessus."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Confirmer l’annulation",
+      "text": "Spotify vous demandera de confirmer. Validez pour terminer la résiliation."
+    }
+  ],
+  "tool": [
+    {
+      "@type": "HowToTool",
+      "name": "Un navigateur web"
+    }
+  ],
+  "totalTime": "PT2M"
+}

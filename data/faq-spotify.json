@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Peut-on résilier Spotify à tout moment ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Oui, vous pouvez annuler votre abonnement à tout moment depuis votre compte Spotify."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Doit-on contacter le service client pour résilier ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Non, tout se fait directement en ligne via votre compte personnel."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Perd-on immédiatement l'accès Premium après résiliation ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Non, vous gardez l'accès Premium jusqu'à la fin de votre période de facturation en cours."
+      }
+    }
+  ]
+}
