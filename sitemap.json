@@ -1,7 +1,7 @@
 {
   "@context": "https://schema.org",
   "@type": "WebSite",
-  "url": "https://manets55.github.io/",
+  "url": "https://resiliation-en-ligne.fr/",
   "name": "Résiliation en ligne",
   "description": "Fiches pratiques pour résilier facilement vos abonnements et services.",
   "inLanguage": "fr",
@@ -12,15 +12,21 @@
   "hasPart": [
     {
       "@type": "WebPage",
-      "url": "https://manets55.github.io/",
+      "url": "https://resiliation-en-ligne.fr/",
       "name": "Accueil",
       "description": "Page d’accueil du site Résiliation en ligne."
     },
     {
       "@type": "WebPage",
-      "url": "https://manets55.github.io/data/resilier-spotify.html",
+      "url": "https://resiliation-en-ligne.fr/data/resiliation-spotify.json",
       "name": "Comment résilier Spotify",
       "description": "Étapes détaillées pour résilier un abonnement Spotify en ligne."
+    },
+    {
+      "@type": "WebPage",
+      "url": "https://resiliation-en-ligne.fr/data/faq-spotify.json",
+      "name": "FAQ Spotify",
+      "description": "Questions fréquentes sur la résiliation de Spotify."
     }
   ]
 }
